@@ -27,6 +27,8 @@
 
 
 * e\_aerodynamics\_added : Added effect of aerodynamic downforce on vertical load of each tire, pitching moment due to downforce.
+  
 
-###### 
+* f\_updated\_seven\_DOF\_vehicle\_model: Added suspension displacement due to aerodynamic downforce in previous aerodynamic model added saturation to omega as a substitution to the powertrain limits(omega saturated to 47.5 m/sec).
+
 
