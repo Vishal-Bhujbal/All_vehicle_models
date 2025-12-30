@@ -32,3 +32,6 @@
 * f\_updated\_seven\_DOF\_vehicle\_model: Added suspension displacement due to aerodynamic downforce in previous aerodynamic model added saturation to omega as a substitution to the powertrain limits(omega saturated to 47.5 m/sec).
 
 
+* f\_updated\_vehicle\_model: Subsystem wise loading of parameters for better user experience in the app. Changes were made in codes of matlab function accordingly.
+
+
